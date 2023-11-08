@@ -1,0 +1,28 @@
+@font-face{
+    font-family: Agbalumo;
+    src: url('./fonts/Agbalumo/Agbalumo-Regular.ttf');
+}
+@font-face{
+    font-family: Edu_TAS_Beginner ;
+    src: url('./fonts/Edu_TAS_Beginner/EduTASBeginner-VariableFont_wght.ttf');
+}
+@font-face{
+    font-family: Exo2-Italic-VariableFont_wght ;
+    src: url('./fonts/Exo_2/Exo2-Italic-VariableFont_wght.ttf');
+}
+@font-face{
+    font-family: GreatVibes-Regular;
+    src: url('./fonts/Great_Vibes/GreatVibes-Regular.ttf');
+}
+@font-face{
+    font-family: KaushanScript-Regular ;
+    src: url('./fonts/Kaushan_Script/KaushanScript-Regular.ttf');
+}
+@font-face{
+    font-family: Macondo-Regular;
+    src: url('./fonts/Macondo/Macondo-Regular.ttf');
+}
+@font-face{
+    font-family: PermanentMarker-Regular ;
+    src: url('./fonts/Permanent_Marker/PermanentMarker-Regular.ttf');
+}
